@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Donii</string>
+    <string name="button">Clothes</string>
+    <string name="button2">Shoes</string>
+    <string name="button3">Outerwear</string>
+    <string name="tbutton">Shelter for the Homeless</string>
+    <string name="tbutton2">Employ to Empower</string>
+
+</resources>
